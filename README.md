@@ -9,10 +9,16 @@ Si aad u soo dejiso mashruuca, koobi ama qaado amarkan:
 ```bash
 git clone https://github.com/Black1446/SILENT_BRUTE_FORCE_ATTACK.cpp.git
 
+```bash
 cd SILENT_BRUTE_FORCE_ATTACK.cpp
 
+```bash
 chmod +x b
 
+```bash
+
 g++ SILENT_BRUTE_FORCE_ATTACK.cpp -o b
+
+```bash
 
 ./b
