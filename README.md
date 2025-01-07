@@ -1,6 +1,6 @@
 # SILENT BRUTE FORCE ATTACK
 
-SILENT BRUTE FORCE ATTACK waa tool awood leh oo loogu talagalay in lagu sameeyo weerar brute force si aadan loo ogaan. Waxa uu ku qoranyahay C++ waxaana loo isticmaali karaa dhowr habab.
+"SILENT BRUTE FORCE ATTACK is a powerful tool designed to perform a brute force attack without detection. It is written in C++ and can be used in various ways."
 
 ## Soo Degso
 
@@ -9,16 +9,12 @@ Si aad u soo dejiso mashruuca, koobi ama qaado amarkan:
 ```bash
 git clone https://github.com/Black1446/SILENT_BRUTE_FORCE_ATTACK.cpp.git
 
-```bash
 cd SILENT_BRUTE_FORCE_ATTACK.cpp
 
-```bash
 chmod +x b
-
-```bash
 
 g++ SILENT_BRUTE_FORCE_ATTACK.cpp -o b
 
+## Si aad u orodsiiso toolka commandkaan ku past gareey Terminalkaaga 
 ```bash
-
 ./b
