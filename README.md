@@ -4,7 +4,7 @@ SILENT BRUTE FORCE ATTACK waa tool awood leh oo loogu talagalay in lagu sameeyo 
 
 ## Soo Degso
 
-Si aad u soo dejiso, isticmaal amarkan:
+Si aad u soo dejiso mashruuca, koobi ama qaado amarkan:
 
 ```bash
 git clone https://github.com/Black1446/SILENT_BRUTE_FORCE_ATTACK.cpp.git
