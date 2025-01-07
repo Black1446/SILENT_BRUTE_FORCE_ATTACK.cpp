@@ -15,6 +15,4 @@ chmod +x b
 
 g++ SILENT_BRUTE_FORCE_ATTACK.cpp -o b
 
-## Si aad u orodsiiso toolka commandkaan ku past gareey Terminalkaaga 
-```bash
 ./b
