@@ -1,9 +1,15 @@
 # SILENT_BRUTE_FORCE_ATTACK.cpp
 
-# git clone https://github.com/Black1446/SILENT_BRUTE_FORCE_ATTACK.cpp.git #
 
-# chmod +x b #
+#marka hora soo dagso toolka 👇
+#git clone https://github.com/Black1446/SILENT_BRUTE_FORCE_ATTACK.cpp.git #
+ls
 
-# g++ SILENT_BRUTE_FORCE_ATTACK.cpp -o b #
+#cd SILENT_BRUTE_FORCE_ATTACK.cpp
 
-# ./b #
+#chmod +x b
+
+#g++ SILENT_BRUTE_FORCE_ATTACK.cpp -o b
+
+commands hoosku qoran past ku dheh Terminalkaaga si aad u orod siiso toolka  👇
+#./b 
